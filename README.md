@@ -1,6 +1,6 @@
 # Food Waste Reduction API
 
-This is a RESTful API that provides information on reducing food waste. The API is built with React, Vite, TypeScript, and SCSS on the front-end and Express on the back-end. The database used for this project is yet to be decided between MongoDB or MariaDB.
+This is a RESTful API that provides information on reducing food waste. The API is built with React, Vite, TypeScript, and SCSS on the front-end and Express on the back-end. The database used for this project is MongoDB.
 
 ## Getting started
 
@@ -12,7 +12,11 @@ This is a RESTful API that provides information on reducing food waste. The API 
 ### Installation
 
 1. Clone the repository using git clone https://github.com/your-username/food-waste-reduction-api.git.
-2. Install dependencies by running npm install in the project root directory.
+2. Run these commands:
+   - npm init -y
+   - npm install
+   - npm install express cors mongoose
+3. Install dependencies by running npm install in the project root directory.
 
 ### Usage
 
@@ -53,3 +57,7 @@ This project is licensed under the MIT License.
 ## Contact
 
 If you have any questions or concerns, please contact ludvig.flyckt@gmail.com or https://github.com/Ludvigpbf/.
+
+npm init -y
+
+npm install
