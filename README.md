@@ -28,9 +28,15 @@ This is a RESTful API that provides information on reducing food waste. The API 
 This API has the following features:
 
 - Authentication and authorization of users.
-- Fetching of recipes.
+- Fetching of recipes for leftovers.
 - Suggestions for using up leftover ingredients.
 - Tracking of food waste reduction statistics.
+- Fetching data on the evironmental impact of food waste.
+- Get information on composting.
+- Get information on food donation.
+- Get information on policies and regulations related to food waste reduction.
+- Get information on food waste reduction porgrams/organizations/businesses etc.
+  and more.
 
 ## API endpoints
 
